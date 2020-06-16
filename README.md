@@ -1,2 +1,3 @@
 # Color-Detection-Mini-Project
-detecting the name and hex code of any color
+
+double click on any point to detect color name and hex code
